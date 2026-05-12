@@ -1,4 +1,5 @@
-# Hi 👋, I'm Pradeep Bisht
+# Hi 👋
+I'm Pradeep Bisht
 
 ## Software Engineer | Full Stack Developer
 
