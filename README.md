@@ -50,21 +50,14 @@ I build modern web applications, scalable backend systems, cloud deployments, an
 - AWS deployment and hosting
 - WordPress websites and custom PHP solutions
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://your-website.com
+- 📧 Email: pradeepbisht532@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pradeepbisht532/
+- 🌐 Portfolio: https://pradeepbisht.com
 
 ---
 
